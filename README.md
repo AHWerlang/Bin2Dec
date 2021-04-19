@@ -1,4 +1,6 @@
 # Bin2Dec
+Idea from [here](https://github.com/florinpop17/app-ideas)
+Demo: [Bin2Dec](https://ahwerlang.github.io/Bin2Dec/index.html)
 
 Tier: 1-Beginner
 
